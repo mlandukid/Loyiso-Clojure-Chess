@@ -1,0 +1,17 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+*.log
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-repl-history
+xboard.debug
+game.*
+log.*
+players.dat
+*.pgn
